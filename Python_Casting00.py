@@ -5,3 +5,7 @@ z = int("3") # z will be 3
 print(x);
 print(y);
 print(z);
+
+print(type(x))
+print(type(y))
+print(type(z))
